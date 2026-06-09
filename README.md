@@ -56,7 +56,7 @@ and exploring efficient approaches to data collection, processing, and indexing.
 
 ## Current Focus
 
-Building large-scale information retrieval systems and developing scalable backend infrastructure for data-intensive applications.
+Building large-scale data retrieval systems and developing scalable backend infrastructures for high-data volume applications at the Innovation Center of Imam Reza International University
 
 ---
 
