@@ -1,10 +1,12 @@
-# Hi, I'm Amirhossein Abbasi 👋
+# Amirhossein Abbasi 
+### Backend Developer | Search Technologies | Scalable Systems
 
-Computer Engineering Student with a strong interest in backend systems,
-search technologies, and large-scale data processing.
+Computer Engineering student passionate about building scalable backend systems, search infrastructure, and large-scale data processing pipelines.
 
 Currently focused on building large-scale information retrieval systems
 and exploring efficient approaches to data collection, processing, and indexing.
+
+I enjoy designing systems that efficiently collect, process, index, and retrieve massive amounts of information.
 
 ---
 
@@ -56,7 +58,31 @@ and exploring efficient approaches to data collection, processing, and indexing.
 
 ## Current Focus
 
-Building large-scale data retrieval systems and developing scalable backend infrastructures for high-data volume applications at the Innovation Center of Imam Reza International University
+Currently working on building large-scale information retrieval systems and scalable backend infrastructures.
+
+### Current Areas of Exploration
+
+- Web-scale data collection
+- Efficient indexing pipelines
+- Search ranking mechanisms
+- High-performance backend APIs
+- Scalable data processing
+
+---
+
+---
+
+## GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahaf138396&theme=default)
+
+---
+
+## Open To
+
+- Research Opportunities
+- Open Source Collaboration
+- Technical Discussions
 
 ---
 
@@ -69,6 +95,7 @@ Building large-scale data retrieval systems and developing scalable backend infr
 🇰🇷 한국어 — Learning
 
 ---
+
 
 ## Contact
 
