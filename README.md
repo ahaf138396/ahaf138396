@@ -68,7 +68,12 @@ Currently working on building large-scale information retrieval systems and scal
 - High-performance backend APIs
 - Scalable data processing
 
-### Note
+### Currently Learning
+
+- Information Retrieval
+- Distributed Systems
+
+#### Note
 > A significant portion of my development activity takes place in private repositories and is therefore not publicly visible on GitHub.
 
 ---
