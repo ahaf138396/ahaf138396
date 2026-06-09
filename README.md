@@ -68,7 +68,6 @@ Currently working on building large-scale information retrieval systems and scal
 - High-performance backend APIs
 - Scalable data processing
 
----
 
 ---
 
@@ -76,6 +75,9 @@ Currently working on building large-scale information retrieval systems and scal
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahaf138396&theme=default)
 
+### Note
+> A significant portion of my development activity takes place in private repositories and is therefore not publicly visible on GitHub.
+  
 ---
 
 ## Open To
