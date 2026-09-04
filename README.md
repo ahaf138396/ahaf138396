@@ -38,6 +38,7 @@ I enjoy designing systems that efficiently collect, process, index, and retrieve
 ### Database
 
 - PostgreSQL
+- MongoDB
 
 ### DevOps & Tools
 
